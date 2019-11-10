@@ -1,0 +1,56 @@
+papers:
+  - title: Estimation of Target Detectability for Maritime Target Tracking in the PDA Framework
+    type: Conference
+    year: 2019
+    authors: E. F. Wilthil, Y. Bar-Shalom, P. Willett and E. Brekke
+    published-in: 22nd International Conference on Information Fusion (FUSION), Ottawa, 2019
+    selected: True
+
+  - title: The Branching-Course MPC Algorithm for Maritime Collision Avoidance
+    type: Journal
+    year: 2019
+    authors: B.-O. H. Eriksen, M. Breivik, E. F. Wilthil, A. L. Flåten and E. F. Brekke
+    published-in: "Journal of Field Robotics, 2019; 36: 1222–1249"
+    selected: True
+
+  - title: Autonomous COLREGs-Compliant Decision Making using Maritime Radar Tracking and Model Predictive Control
+    type: Conference
+    year: 2019
+    authors: D. K. M. Kufoalor, E. Wilthil, I. B. Hagen, E. F. Brekke and T.A. Johansen
+    published-in: 2019 European Control Conference (ECC), Naples, 2019
+    selected: False
+
+  - title: Track Initiation for Maritime Radar Tracking with and without Prior Information
+    type: Conference
+    year: 2018
+    authors: E. F. Wilthil, E. Brekke and O. B. Asplin
+    published-in: 21st International Conference on Information Fusion (FUSION), Cambridge, 2018
+    selected: True
+
+  - title: Radar-based Maritime Collision Avoidance using Dynamic Window
+    type: Conference
+    year: 2018
+    authors: B.-O. H. Eriksen, E. F. Wilthil, A. L. Flåten, E. F. Brekke and M. Breivik
+    published-in: IEEE Aerospace Conference, Big Sky, 2018
+    selected: False
+
+  - title: A Target Tracking System for ASV Collision Avoidance Based on the PDAF
+    type: Book chapter
+    year: 2017
+    authors: E. F. Wilthil, A. L. Flåten and E. Brekke
+    published-in: Sensing and Control for Autonomous Vehicles, T. I. Fossen, K. Y. Pettersen and H. Nijmeijer, Eds., Springer, 2017, pp. 269–288
+    selected: True
+
+  - title: Suboptimal Kalman Filters for Target Tracking with Navigation Uncertainty in One Dimension
+    type: Conference
+    year: 2017
+    authors: E. Brekke and E. F. Wilthil
+    published-in: IEEE Aerospace Conference, Big Sky, 2017
+    selected: False
+
+  - title: Compensation of Navigation Uncertainty for Target Tracking on a Moving Platform
+    type: Conference
+    year: 2016
+    authors: E. F. Wilthil and E. Brekke
+    published-in: 19th International Conference on Information Fusion (FUSION), Heidelberg, 2016
+    selected: False

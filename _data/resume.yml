@@ -1,0 +1,86 @@
+---
+title: Research scientist, maritime situational awareness
+summary: Expert on target tracking, sensor fusion and situational awareness, with focus on maritime applications. With a PhD from the Department of Engineering Cybernetics at NTNU, I have a strong theoretical background combined with valuable practical experience from full-scale field work.
+
+work-experience:
+    - title: Postdoctoral fellow
+      employer: Norwegian University of Science and Technology
+      start-time: 2019
+      end-time: Present
+      description: I work on sensors and situational awareness for a prototype of an autonomous urban passenger ferry. In urban environments, multiple sensors are needed to safely detect all objects within the vicinity of the ferry. Because of this, my current focus is on developing software for interfacing multiple sensors, and fuse them. 
+    - title: PhD Candidate
+      employer: Norwegian University of Science and Technology
+      start-time: 2015
+      end-time: 2019
+      description: My research focus was on target tracking for maritime collision avoidance, using a low-cost maritime radar. This was part of the Autosea research project, in collaboration with Maritime Robotics, Kongsberg Maritime and DNV GL. In addition to working on my PhD thesis, I was also a teaching assistant for three years.
+    - title: Summer intern
+      employer: Kongsberg Defence and Aerospace
+      start-time: 2013
+      end-time: 2014
+      description: Employed in the GNC group of the <a href="http://www.localhawk.net">LocalHawk</a> summer project in both 2013 and 2014. Worked primarily with navigation system design, and developed a strapdown inertial navigation system.
+
+education:
+    - title: PhD, Engineering Cybernetics
+      institution: Norwegian University of Science and Technology
+      start-time: 2015 
+      end-time: 2019
+      description: |
+          Thesis title: Maritime Target Tracking with Varying Sensor Performance
+
+    - title: Msc, Engineering Cybernetics
+      institution: Norwegian University of Science and Technology
+      start-time: 2010
+      end-time: 2015
+      description: |
+          Thesis title: Singularity-free Navigation System for an Autonomous Unmanned Aerial Vehicle
+
+skills:
+    # Skill levels are from 1 to 5
+    - name: Technical
+      skills:
+        - type: Sensor fusion
+          level: 5
+          percentage: 95
+        - type: Target tracking
+          level: 5
+          percentage: 95
+        - type: State estimation
+          level: 4
+          percentage: 85
+        - type: Inertial Navigation
+          level: 4
+          percentage: 70
+        - type: SLAM
+          level: 3
+          percentage: 60
+        - type: Control Systems
+          level: 3
+          percentage: 
+    - name: Software Tools
+      skills:
+        - type: Python
+          level: 5
+          percentage: 80
+        - type: Robot Operating System (ROS)
+          level: 4
+          percentage: 75
+        - type: Git
+          level: 3
+          percentage: 60
+        - type: LaTeX
+          level: 3
+          percentage: 60
+        - type: C++
+          level: 2
+          percentage: 50
+    
+
+awards:
+    - title: Your Extreme Top Award 2013
+      description: Student competition by Kongsberg Gruppen.
+    - title: Second best student paper, Fusion 2019
+      description: ISIF Tammy L. Blair student paper award.
+hobbies:
+    - Beer brewing
+    - Running
+...
